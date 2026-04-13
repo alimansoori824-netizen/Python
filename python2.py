@@ -1,0 +1,6 @@
+x=eval(input("Enter a number"))
+print(x,type(x))
+y=eval(input("Enter value"))
+print(y,type(y))
+z=eval(input("Enter value"))
+print(z,type(z))
